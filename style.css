@@ -1,0 +1,12 @@
+.nav{
+    background-color: blue;
+}
+.nav-link{
+    color: white;
+}
+body{
+    background-image: url("hatter.jpg");
+}
+main{
+    background-color: white;
+}
